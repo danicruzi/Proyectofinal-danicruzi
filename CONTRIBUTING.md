@@ -9,3 +9,5 @@ Thank you for your interest in contributing to this project! To ensure a clear a
 ## Steps to contribute
 1. **Fork this repository.**
 2. **Clone your fork** to your computer:
+   ```bash
+   git clone https://github.com/your-username/your-repo.git
