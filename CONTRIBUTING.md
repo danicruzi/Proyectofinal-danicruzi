@@ -1,13 +1,11 @@
-# Guía para Contribuir
+# Contribution Guide
 
-¡Gracias por tu interés en contribuir a este proyecto! Para asegurarnos de que el proceso sea claro y organizado, sigue estas instrucciones.
+Thank you for your interest in contributing to this project! To ensure a clear and organized process, please follow these steps.
 
-## Requisitos previos
-1. Tener una cuenta de GitHub.
-2. Haber clonado este repositorio en tu máquina local.
+## Prerequisites
+1. Have a GitHub account.
+2. Clone this repository to your local machine.
 
-## Pasos para contribuir
-1. **Haz un fork** de este repositorio.
-2. **Clona tu fork** a tu computadora:
-   ```bash
-   git clone https://github.com/tu-usuario/tu-repo.git
+## Steps to contribute
+1. **Fork this repository.**
+2. **Clone your fork** to your computer:
