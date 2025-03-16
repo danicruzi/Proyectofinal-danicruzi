@@ -1,18 +1,18 @@
 #!/bin/bash
 
-# Script para calcular interés simple
+# Script to calculate simple interest
 
-echo "Introduce el capital inicial:"
+echo "Enter the initial principal amount:"
 read principal
 
-echo "Introduce la tasa de interés (en porcentaje):"
+echo "Enter the interest rate (in percentage):"
 read rate
 
-echo "Introduce el tiempo (en años):"
+echo "Enter the time period (in years):"
 read time
 
-# Cálculo del interés simple
+# Simple interest calculation
 interest=$(echo "scale=2; $principal * $rate * $time / 100" | bc)
 
-echo "El interés simple es: $interest"
+echo "The simple interest is: $interest"
 
